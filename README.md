@@ -6,6 +6,7 @@
 
 ## Software Craft
 * [Eight Habits of Expert Software Designers: An Illustrated Guide](https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/)
+* [Things You Should Never Do, Part I (don't rewrite software)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 
 ## Product
 * [Getting Real: The problem with preferences, interface design, and the customer experience](https://signalvnoise.com/archives2/getting_real_the_problem_with_preferences_interface_design_and_the_customer_experience.php)
