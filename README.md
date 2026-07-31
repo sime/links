@@ -14,3 +14,6 @@
 ## Timezones
 * [UTC is Enough for Everyone, Right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
 * [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
+
+## Cryptography
+* [Why do some people believe that humans are "bad at" generating random ](https://crypto.stackexchange.com/questions/87978/why-do-some-people-believe-that-humans-are-bad-at-generating-random-numbers-ch)
